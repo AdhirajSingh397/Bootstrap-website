@@ -1,0 +1,41 @@
+@media(min-width: 768px){
+    .news-input {
+        width:50%;
+    }
+}
+
+body::before{
+    display: block;
+    content: ''
+    height:  60px;
+}
+
+#map{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#News{
+    background-color: rgb(7, 6, 6);
+}
+
+.btn-custom-color {
+    background-color: rgb(29, 18, 41); /* Replace with your desired color */
+    color: #fbff05;
+}
+
+.bg-box{
+    background-color: beige; /* Replace with your desired color */
+    color: #0f0f0c;
+}
+
+.btn-custom {
+    background-color: rgb(86, 56, 119); /* Replace with your desired color */
+    color: #e71616;
+}
+
+.bg-custom{
+    background-color: beige; /* Replace with your desired color */
+    color: #0f0f0c;
+}
